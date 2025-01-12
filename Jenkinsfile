@@ -9,7 +9,6 @@ ls
 '''
       }
     }
-
     stage('test') {
       parallel {
         stage('test') {
